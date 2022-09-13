@@ -2,6 +2,6 @@
 simple selenium web ui test by java
 
 ## Dependency
-### - Selenium
-### - Junit
-### - Webdriver Manager
+### Selenium
+### Junit
+### Webdriver Manager
