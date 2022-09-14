@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 
-public class RunTest {
+public class RunWebUiTest {
     WebDriver webDriver;
     WebDriverWait webDriverWait;
     @Before
